@@ -63,5 +63,3 @@ elif play == "n":
     print("OK, have a good day!")
 else:
     print("Please answer with a 'y' for yes or a 'n' for no.")
-
-print("Done.")
